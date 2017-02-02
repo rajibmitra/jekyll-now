@@ -8,4 +8,4 @@ Next you can update your site name, avatar and other options using the _config.y
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
 
-Hello World! This is the first sentence of every programming language , everything amazing starts from there , huh ! Welcome to me world . This is me , Rajib , A day dreamer mostly , love to code , mostly in python ! 
+Hello World! This is the first sentence of every programming language , everything amazing starts from there , huh ! Welcome to me world . This is me , Rajib , A day dreamer mostly , love to code , mostly in python !
