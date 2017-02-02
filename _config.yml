@@ -6,7 +6,7 @@
 name: Rajib Mitra
 
 # Short bio or description (displayed in the header)
-description: Coder Dreamer Lover 
+description: Coder Dreamer Gamer 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars2.githubusercontent.com/u/1690251?v=3&u=db80cfae330b4002634565a9a2f8e6739f6cad32&s=400 
@@ -18,16 +18,16 @@ avatar: https://avatars2.githubusercontent.com/u/1690251?v=3&u=db80cfae330b40026
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble:
-  email:
-  facebook:
+  dribbble: 
+  email: rajib.jolite@gmail.com
+  facebook: beingRajiB
   flickr:
   github: barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: rajibmitraa 
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
